@@ -1,6 +1,7 @@
 # ♟️ 3D Chess — Real-Time Multiplayer Chess in the Browser
 
-![3D Chess Banner](https://imgur.com/a/PyiXecf) <!-- Replace with your actual game screenshot or banner image -->
+![3D Chess Banner](https://github.com/user-attachments/assets/480c6ae9-8f0c-430f-b52a-927344764bf4)
+ <!-- Replace with your actual game screenshot or banner image -->
 
 <div align="center">
 

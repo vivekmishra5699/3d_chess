@@ -1,12 +1,11 @@
 # ♟️ 3D Chess — Real-Time Multiplayer Chess in the Browser
 
-![3D Chess Banner](https://i.imgur.com/XYZ123.png) <!-- Replace with your actual game screenshot or banner image -->
+![3D Chess Banner](https://photos.app.goo.gl/Aaa52Mq9Vjj5n29k8) <!-- Replace with your actual game screenshot or banner image -->
 
 <div align="center">
 
 ✨ A **beautifully rendered** 3D chess game built with **Three.js**, powered by real-time multiplayer using **Socket.IO**. Play online with friends or watch the board come to life!
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Made with Three.js](https://img.shields.io/badge/3D-Three.js-blue)](https://threejs.org/)
 [![Powered by Vite](https://img.shields.io/badge/Bundler-Vite-yellow)](https://vitejs.dev/)
 [![Socket.IO](https://img.shields.io/badge/Realtime-Socket.IO-red)](https://socket.io/)

@@ -19,7 +19,7 @@ export default defineConfig({
       'localhost',
       'recordings-polyphonic-purchasing-wildlife.trycloudflare.com',
       'incredible-pressed-reading-develop.trycloudflare.com',
-      'valid-vanilla-virgin-sofa.trycloudflare.com'
+      'threed-chess-6rhz.onrender.com'
     ],
     proxy: {
       '/socket.io': {

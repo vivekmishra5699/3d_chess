@@ -694,7 +694,7 @@ const serverUrl = window.location.hostname === 'localhost'
   ? 'http://localhost:3000'
   : window.location.hostname.includes('cloudflare') 
     ? `https://${window.location.hostname}` // For Cloudflare tunnels
-    : 'https://incredible-pressed-reading-develop.trycloudflare.com'; // Replace with default fallback
+    : 'https://server-119x.onrender.com'; // Replace with default fallback
 
 console.log('Connecting to server at:', serverUrl);
 
